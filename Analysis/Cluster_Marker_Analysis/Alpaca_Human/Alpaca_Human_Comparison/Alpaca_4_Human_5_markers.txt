@@ -1,7 +1,0 @@
-"TCF7"
-"ANLN"
-"RGCC"
-"CCNA2"
-"MUC1"
-"HECTD1"
-"CEP350"
